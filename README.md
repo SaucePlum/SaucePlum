@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Home
 - 🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate on QQ_Guild_Bot
+- 👯 I’m looking to collaborate on QQ-Guild-Bot
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/foxwhite25/foxwhite25/master/Night-Coding.gif" align="right"/>
 
