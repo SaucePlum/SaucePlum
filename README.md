@@ -19,5 +19,5 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 
 ### ⚙️ GitHub 分析
-| <a href="https://github.com/robot-nian"><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=robot-nian&show_icons=true&theme=buefy&include_all_commits=true&count_private=true&hide_border=true"/>| <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=robot-nian&layout=compact&langs_count=8&theme=buefy&hide_border=true&hide_border=true"/>| 
+| <a href="https://github.com/robot-nian"><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=robot-nian&show_icons=true&theme=buefy&include_all_commits=true&count_private=true&hide_border=true"/></a> | <a href="https://github.com/robot-nian?tab=repositories"><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=robot-nian&layout=compact&langs_count=8&theme=buefy&hide_border=true&hide_border=true"/></a>| 
 | ------------- | ------------- |
