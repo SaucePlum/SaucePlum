@@ -4,8 +4,6 @@
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on QQ-Guild-Bot
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/foxwhite25/foxwhite25/master/Night-Coding.gif" align="right"/>
-
 ### 🛠 我使用的技术
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
@@ -21,10 +19,5 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 
 ### ⚙️ GitHub 分析
-
-<p align="left">
-<a href="https://github.com/robot-nian">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=robot-nian&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=robot-nian&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+| <a href="https://github.com/robot-nian"><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=robot-nian&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>| <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=robot-nian&layout=compact&langs_count=8&theme=buefy"/>| 
+  | ------------- | ------------- |
