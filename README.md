@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Home
 - 🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate on QQ-Guild-Bot
+- 👯 I’m looking to collaborate on QQ-Channel-Bot
 
 ### 🛠 我使用的技术
 
