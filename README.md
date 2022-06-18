@@ -19,5 +19,5 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 
 ### ⚙️ GitHub 分析
-| <a href="https://github.com/ReadSmall"><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ReadSmall&show_icons=true&theme=buefy&include_all_commits=true&count_private=true&hide_border=true"/></a> | <a href="https://github.com/ReadSmall?tab=repositories"><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ReadSmall&layout=compact&langs_count=8&theme=buefy&hide_border=true&hide_border=true"/></a>| 
+| ![My GitHub Statistics](https://github-readme-stats-eight-theta.vercel.app/api?username=ReadSmall&show_icons=true&theme=buefy&include_all_commits=true&count_private=true&hide_border=true) | ![My Programming Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ReadSmall&layout=compact&langs_count=8&theme=buefy&hide_border=true&hide_border=true)
 | ------------- | ------------- |
