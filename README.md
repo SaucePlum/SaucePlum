@@ -1,23 +1,27 @@
-### 👨🏻‍💻 关于我
+## <div align="center">Here is ✨ **Akirami** ✨</div> 
 
-- 🔭 I’m currently working on Home
-- 🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate on QQ-Channel-Bot
+<p align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=ReadSmall&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  alt="gitHub streak stats"/>
+</p>
 
-### 🛠 我使用的技术
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ReadSmall&title=Stars,Followers,PullRequest,Commits,Repositories,Issues&no-frame=true&margin-w=10"  alt="github profile trophy"/>
+</p>
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
+### <div align="center">🌟 My Skill</div>
 
-### ⚙️ GitHub 分析
+<p align="center">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS">
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js">
+</p>
+
+### <div align="center">⚙️ Github Stats</div>
+
 | ![My GitHub Statistics](https://github-readme-stats-eight-theta.vercel.app/api?username=ReadSmall&show_icons=true&theme=buefy&include_all_commits=true&count_private=true&hide_border=true) | ![My Programming Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ReadSmall&layout=compact&langs_count=8&theme=buefy&hide_border=true&hide_border=true)
 | ------------- | ------------- |
