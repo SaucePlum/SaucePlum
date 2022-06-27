@@ -4,12 +4,12 @@
   <img src="http://github-readme-streak-stats.herokuapp.com?user=ReadSmall&hide_border=true"  alt="gitHub streak stats"/>
 </p>
 
-## <div align="center">🍉 github profile</div>
+## <div align="center">🍉 Github Profile</div>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ReadSmall&title=Stars,Followers,PullRequest,Commits,Repositories,Issues&no-frame=true&margin-w=10"  alt="github profile trophy"/>
 </p>
 
-## <div align="center">🎯 profile summary</div>
+## <div align="center">🎯 Profile Summary</div>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ReadSmall&theme=github" alt="profile summary"/>
 </p>
