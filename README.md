@@ -44,8 +44,7 @@
 
 
 <div align="center">
-<a href="https://github.com/SaucePlum/COVID-Bot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SaucePlum&repo=COVID-Bot&theme=dark&bg_color=0d1117&hide_border=true" /></a>
-<a href="https://github.com/SaucePlum/music-bot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SaucePlum&repo=music-bot&theme=dark&bg_color=0d1117&hide_border=true" /></a>
+<a href="https://github.com/SaucePlum/easybot">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SaucePlum&repo=easybot&theme=dark&bg_color=0d1117&hide_border=true" />
+</a>
 </div>
